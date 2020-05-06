@@ -3,4 +3,5 @@ channels:
 dependencies:
 - python
 - minio
+- boto3
 - h5py
